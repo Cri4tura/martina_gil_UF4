@@ -1,0 +1,3 @@
+1;Client=Martina;Date=2024-04-02T13:41:10.179100;
+1;Products=Fresa,10.0€;Pera,40.0€;
+1;Amount=50.0€;
